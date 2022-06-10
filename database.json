@@ -1,0 +1,135 @@
+{
+  "users": [
+    {
+      "id": 0,
+      "fullName": "",
+      "userName": "",
+      "email": "",
+      "favMovieId": "",
+      "favGenreId": 0,
+      "avatarId": 0
+    }
+  ],
+  "games": [
+    {
+      "id": 0,
+      "userId": 0,
+      "correctAnswers": 0,
+      "incorrectAnswers": 0,
+      "score": 0,
+      "timestamp": 1234567890,
+      "actorId": ""
+    }
+  ],
+  "avatars": [
+    {
+      "id": 0,
+      "image": ""
+    }
+  ],
+  "genres": [
+    {
+      "id": 1,
+      "genre": "Action"
+    },
+    {
+      "id": 2,
+      "genre": "Animation"
+    },
+    {
+      "id": 3,
+      "genre": "Comedy"
+    },
+    {
+      "id": 4,
+      "genre": "Crime"
+    },
+    {
+      "id": 5,
+      "genre": "Drama"
+    },
+    {
+      "id": 6,
+      "genre": "Fantasy"
+    },
+    {
+      "id": 7,
+      "genre": "Historical"
+    },
+    {
+      "id": 8,
+      "genre": "Horror"
+    },
+    {
+      "id": 9,
+      "genre": "Romance"
+    },
+    {
+      "id": 10,
+      "genre": "Science Fiction"
+    },
+    {
+      "id": 11,
+      "genre": "Thriller"
+    },
+    {
+      "id": 12,
+      "genre": "Western"
+    }
+  ],
+  "lists": [
+    {
+      "id": "ls095732811",
+      "name": "American Horror Story"
+    },
+    {
+      "id": "ls008621322",
+      "name": "TV Dads"
+    },
+    {
+      "id": "ls080347996",
+      "name": "TV Moms"
+    },
+    {
+      "id": "ls560242519",
+      "name": "Brits"
+    },
+    {
+      "id": "ls097918155",
+      "name": "Canadians"
+    },
+    {
+      "id": "ls026495886",
+      "name": "Grey's Anatomy"
+    },
+    {
+      "id": "ls089663282",
+      "name": "Saturday Night Live"
+    },
+    {
+      "id": "ls502193224",
+      "name": "Saved By The Bell"
+    },
+    {
+      "id": "ls000067997",
+      "name": "Best Actor Winners"
+    },
+    {
+      "id": "ls000067814",
+      "name": "Best Actress Winners"
+    },
+    {
+      "id": "ls056537712",
+      "name": "DC Movies"
+    },
+    {
+      "id": "ls064339218",
+      "name": "Marvel Cinematic Universe"
+    },
+    {
+      "id": "ls074096091",
+      "name": "Three Names"
+    }
+  ],
+  "listActors": []
+}
