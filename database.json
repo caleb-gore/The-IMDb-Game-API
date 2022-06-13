@@ -1,13 +1,76 @@
 {
   "users": [
     {
-      "id": 0,
-      "fullName": "",
-      "userName": "",
-      "email": "",
-      "favMovieId": "",
-      "favGenreId": 0,
-      "avatarId": 0
+      "fullName": "Jack Sparrow",
+      "email": "j.sparrow@pirates.com",
+      "userName": "Cap'n_Jack",
+      "favMovieId": "tt0325980",
+      "favGenreId": 1,
+      "avatarId": 1,
+      "id": 1
+    },
+    {
+      "fullName": "Henry Jones, Jr",
+      "email": "henry.jones@indiana.gov",
+      "userName": "indianajones",
+      "favMovieId": "tt0082971",
+      "favGenreId": 1,
+      "avatarId": 2,
+      "id": 2
+    },
+    {
+      "fullName": "James Bond",
+      "email": "james_bond@mi6.uk",
+      "userName": "007",
+      "favMovieId": "tt0381061",
+      "favGenreId": 1,
+      "avatarId": 3,
+      "id": 3
+    },
+    {
+      "fullName": "Ellen Ripley",
+      "email": "e.ripley@nostromo.com",
+      "userName": "ripley",
+      "favMovieId": "tt0090605",
+      "favGenreId": 8,
+      "avatarId": 4,
+      "id": 4
+    },
+    {
+      "fullName": "John McClane",
+      "email": "j.mcclane@hardtodie.com",
+      "userName": "yippy-ki-yay",
+      "favMovieId": "tt0095016",
+      "favGenreId": 4,
+      "avatarId": 5,
+      "id": 5
+    },
+    {
+      "fullName": "The Bride",
+      "email": "thebride@bill.com",
+      "userName": "thebride",
+      "favMovieId": "tt0266697",
+      "favGenreId": 12,
+      "avatarId": 6,
+      "id": 6
+    },
+    {
+      "fullName": "Katniss Everdeen",
+      "email": "k.everdeen@district12.com",
+      "userName": "mockingjay",
+      "favMovieId": "tt1392170",
+      "favGenreId": 6,
+      "avatarId": 7,
+      "id": 7
+    },
+    {
+      "fullName": "Sarah Conner",
+      "email": "sarahconner@skynet.com",
+      "userName": "terminator",
+      "favMovieId": "tt0088247",
+      "favGenreId": 11,
+      "avatarId": 8,
+      "id": 8
     }
   ],
   "games": [
@@ -23,8 +86,36 @@
   ],
   "avatars": [
     {
-      "id": 0,
-      "image": ""
+      "id": 1,
+      "image": "https://live.staticflickr.com/65535/52136358192_6ffa81a439_c.jpg"
+    },
+    {
+      "id": 2,
+      "image": "https://live.staticflickr.com/65535/52137406133_233d52bd86_c.jpg"
+    },
+    {
+      "id": 3,
+      "image": "https://live.staticflickr.com/65535/52136358152_b5d115a50c_c.jpg"
+    },
+    {
+      "id": 4,
+      "image": "https://live.staticflickr.com/65535/52137874935_15d07bed60_c.jpg"
+    },
+    {
+      "id": 5,
+      "image": "https://live.staticflickr.com/65535/52137406113_4f67c0f44c_c.jpg"
+    },
+    {
+      "id": 6,
+      "image": "https://live.staticflickr.com/65535/52137406078_bec373f127_c.jpg"
+    },
+    {
+      "id": 7,
+      "image": "https://live.staticflickr.com/65535/52136358102_528bcf2beb_c.jpg"
+    },
+    {
+      "id": 8,
+      "image": "https://live.staticflickr.com/65535/52136358067_402827e2f7_c.jpg"
     }
   ],
   "genres": [
