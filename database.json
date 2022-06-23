@@ -289,6 +289,706 @@
       "timestamp": 1655750515756,
       "outcome": "",
       "id": 18
+    },
+    {
+      "actorId": "nm0001333",
+      "categoryId": "ls000067814",
+      "userId": 1,
+      "correctAnswers": 0,
+      "incorrectAnswers": 0,
+      "score": 0,
+      "timestamp": 1655752006010,
+      "outcome": "",
+      "id": 19
+    },
+    {
+      "actorId": "nm0000658",
+      "categoryId": "ls000067814",
+      "userId": 1,
+      "correctAnswers": 0,
+      "incorrectAnswers": 0,
+      "score": 0,
+      "timestamp": 1655752026605,
+      "outcome": "",
+      "id": 20
+    },
+    {
+      "actorId": "nm0165971",
+      "categoryId": "ls089663282",
+      "userId": 1,
+      "correctAnswers": 0,
+      "incorrectAnswers": 0,
+      "score": 0,
+      "timestamp": 1655752460441,
+      "outcome": "",
+      "id": 21
+    },
+    {
+      "actorId": "nm0000038",
+      "categoryId": "ls000067814",
+      "userId": 1,
+      "correctAnswers": 0,
+      "incorrectAnswers": 0,
+      "score": 0,
+      "timestamp": 1655752787757,
+      "outcome": "",
+      "id": 22
+    },
+    {
+      "actorId": "nm2087739",
+      "categoryId": "ls074096091",
+      "userId": 1,
+      "correctAnswers": 0,
+      "incorrectAnswers": 0,
+      "score": 0,
+      "timestamp": 1655753022500,
+      "outcome": "",
+      "id": 23
+    },
+    {
+      "actorId": "nm0005514",
+      "categoryId": "ls074096091",
+      "userId": 1,
+      "correctAnswers": 1,
+      "incorrectAnswers": 3,
+      "score": -2,
+      "timestamp": 1655753149560,
+      "outcome": "",
+      "id": 24
+    },
+    {
+      "actorId": "nm0005258",
+      "categoryId": "ls502193224",
+      "userId": 1,
+      "correctAnswers": 3,
+      "incorrectAnswers": 3,
+      "score": 20,
+      "timestamp": 1655753471780,
+      "outcome": "",
+      "id": 25
+    },
+    {
+      "actorId": "nm0605079",
+      "categoryId": "ls089663282",
+      "userId": 1,
+      "correctAnswers": 3,
+      "incorrectAnswers": 3,
+      "score": 23,
+      "timestamp": 1655753784659,
+      "outcome": "",
+      "id": 26
+    },
+    {
+      "actorId": "nm0000473",
+      "categoryId": "ls000067814",
+      "userId": 1,
+      "correctAnswers": 3,
+      "incorrectAnswers": 3,
+      "score": 34,
+      "timestamp": 1655753995005,
+      "outcome": "forfeit",
+      "id": 27
+    },
+    {
+      "actorId": "nm3920288",
+      "categoryId": "ls095732811",
+      "userId": 1,
+      "correctAnswers": 0,
+      "incorrectAnswers": 3,
+      "score": -4,
+      "timestamp": 1655756078893,
+      "outcome": "forfeit",
+      "id": 28
+    },
+    {
+      "actorId": "nm6609666",
+      "categoryId": "ls095732811",
+      "userId": 1,
+      "correctAnswers": 4,
+      "incorrectAnswers": 0,
+      "score": 60,
+      "timestamp": 1655756132975,
+      "outcome": "won",
+      "id": 29
+    },
+    {
+      "actorId": "nm3920288",
+      "categoryId": "ls095732811",
+      "userId": 1,
+      "correctAnswers": 0,
+      "incorrectAnswers": 0,
+      "score": 0,
+      "timestamp": 1655826806340,
+      "outcome": "",
+      "id": 30
+    },
+    {
+      "actorId": "nm0933156",
+      "categoryId": "ls026495886",
+      "userId": 1,
+      "correctAnswers": 4,
+      "incorrectAnswers": 3,
+      "score": 43,
+      "timestamp": 1655827619140,
+      "outcome": "won",
+      "id": 31
+    },
+    {
+      "actorId": "nm0000034",
+      "categoryId": "ls000067997",
+      "userId": 1,
+      "correctAnswers": 0,
+      "incorrectAnswers": 0,
+      "score": 0,
+      "timestamp": 1655835640742,
+      "outcome": "forfeit",
+      "id": 32
+    },
+    {
+      "actorId": "nm0000071",
+      "categoryId": "ls000067997",
+      "userId": 1,
+      "correctAnswers": 0,
+      "incorrectAnswers": 0,
+      "score": 0,
+      "timestamp": 1655835659409,
+      "outcome": "forfeit",
+      "id": 33
+    },
+    {
+      "actorId": "nm0000007",
+      "categoryId": "ls000067997",
+      "userId": 1,
+      "correctAnswers": 0,
+      "incorrectAnswers": 0,
+      "score": 0,
+      "timestamp": 1655835665902,
+      "outcome": "forfeit",
+      "id": 34
+    },
+    {
+      "actorId": "nm0000163",
+      "categoryId": "ls000067997",
+      "userId": 1,
+      "correctAnswers": 4,
+      "incorrectAnswers": 3,
+      "score": 53,
+      "timestamp": 1655835671607,
+      "outcome": "",
+      "id": 35
+    },
+    {
+      "actorId": "nm0000333",
+      "categoryId": "ls000067814",
+      "userId": 1,
+      "correctAnswers": 4,
+      "incorrectAnswers": 4,
+      "score": 43,
+      "timestamp": 1655836098213,
+      "outcome": "",
+      "id": 36
+    },
+    {
+      "actorId": "nm4973896",
+      "categoryId": "ls074096091",
+      "userId": 1,
+      "correctAnswers": 4,
+      "incorrectAnswers": 0,
+      "score": 60,
+      "timestamp": 1655836310851,
+      "outcome": "",
+      "id": 37
+    },
+    {
+      "actorId": "nm0000789",
+      "categoryId": "ls008621322",
+      "userId": 1,
+      "correctAnswers": 0,
+      "incorrectAnswers": 0,
+      "score": 0,
+      "timestamp": 1655836633253,
+      "outcome": "",
+      "id": 38
+    },
+    {
+      "actorId": "nm0000014",
+      "categoryId": "ls000067814",
+      "userId": 1,
+      "correctAnswers": 0,
+      "incorrectAnswers": 0,
+      "score": 0,
+      "timestamp": 1655836987704,
+      "outcome": "",
+      "id": 39
+    },
+    {
+      "actorId": "nm0491357",
+      "categoryId": "ls008621322",
+      "userId": 1,
+      "correctAnswers": 1,
+      "incorrectAnswers": 0,
+      "score": 15,
+      "timestamp": 1655840260656,
+      "outcome": "forfeit",
+      "id": 40
+    },
+    {
+      "actorId": "nm0001333",
+      "categoryId": "ls000067814",
+      "userId": 1,
+      "correctAnswers": 0,
+      "incorrectAnswers": 0,
+      "score": 0,
+      "timestamp": 1655840334460,
+      "outcome": "forfeit",
+      "id": 41
+    },
+    {
+      "actorId": "nm0943837",
+      "categoryId": "ls000067814",
+      "userId": 1,
+      "correctAnswers": 0,
+      "incorrectAnswers": 0,
+      "score": 0,
+      "timestamp": 1655840351111,
+      "outcome": "forfeit",
+      "id": 42
+    },
+    {
+      "actorId": "nm0000531",
+      "categoryId": "ls000067814",
+      "userId": 1,
+      "correctAnswers": 3,
+      "incorrectAnswers": 3,
+      "score": 32,
+      "timestamp": 1655840372089,
+      "outcome": "forfeit",
+      "id": 43
+    },
+    {
+      "actorId": "nm0000020",
+      "categoryId": "ls000067997",
+      "userId": 1,
+      "correctAnswers": 0,
+      "incorrectAnswers": 0,
+      "score": 0,
+      "timestamp": 1655840487623,
+      "outcome": "",
+      "id": 44
+    },
+    {
+      "actorId": "nm0536167",
+      "categoryId": "ls000067814",
+      "userId": 1,
+      "correctAnswers": 0,
+      "incorrectAnswers": 0,
+      "score": 0,
+      "timestamp": 1655840510676,
+      "outcome": "",
+      "id": 45
+    },
+    {
+      "actorId": "nm0000149",
+      "categoryId": "ls000067814",
+      "userId": 1,
+      "correctAnswers": 4,
+      "incorrectAnswers": 3,
+      "score": 51,
+      "timestamp": 1655840520657,
+      "outcome": "",
+      "id": 46
+    },
+    {
+      "actorId": "nm0002183",
+      "categoryId": "ls000067997",
+      "userId": 1,
+      "correctAnswers": 0,
+      "incorrectAnswers": 0,
+      "score": 0,
+      "timestamp": 1655840797564,
+      "outcome": "",
+      "id": 47
+    },
+    {
+      "actorId": "nm0000668",
+      "categoryId": "ls560242519",
+      "userId": 1,
+      "correctAnswers": 4,
+      "incorrectAnswers": 3,
+      "score": 43,
+      "timestamp": 1655840809788,
+      "outcome": "won",
+      "id": 48
+    },
+    {
+      "actorId": "nm0001842",
+      "categoryId": "ls056537712",
+      "userId": 1,
+      "correctAnswers": 0,
+      "incorrectAnswers": 0,
+      "score": 0,
+      "timestamp": 1655841595994,
+      "outcome": "",
+      "id": 49
+    },
+    {
+      "actorId": "nm0000235",
+      "categoryId": "ls056537712",
+      "userId": 1,
+      "correctAnswers": 8,
+      "incorrectAnswers": 1,
+      "score": 120,
+      "timestamp": 1655842881497,
+      "outcome": "won",
+      "id": 50
+    },
+    {
+      "actorId": "nm1597316",
+      "categoryId": "ls056537712",
+      "userId": 1,
+      "correctAnswers": 0,
+      "incorrectAnswers": 0,
+      "score": 0,
+      "timestamp": 1655843081122,
+      "outcome": "",
+      "id": 51
+    },
+    {
+      "actorId": "nm1256532",
+      "categoryId": "ls064339218",
+      "userId": 1,
+      "correctAnswers": 0,
+      "incorrectAnswers": 0,
+      "score": 0,
+      "timestamp": 1655843251917,
+      "outcome": "",
+      "id": 52
+    },
+    {
+      "actorId": "nm0004854",
+      "categoryId": "ls074096091",
+      "userId": 1,
+      "correctAnswers": 0,
+      "incorrectAnswers": 0,
+      "score": 0,
+      "timestamp": 1655843809548,
+      "outcome": "",
+      "id": 53
+    },
+    {
+      "categoryId": "ls095732811",
+      "timestamp": 1655873689723,
+      "id": 54
+    },
+    {
+      "categoryId": "ls000067814",
+      "timestamp": 1655874270165,
+      "id": 55
+    },
+    {
+      "categoryId": "ls560242519",
+      "userId": 1,
+      "timestamp": 1655876062956,
+      "id": 56
+    },
+    {
+      "categoryId": "ls056537712",
+      "userId": 1,
+      "timestamp": 1655878708911,
+      "id": 57
+    },
+    {
+      "categoryId": "ls095732811",
+      "userId": 1,
+      "timestamp": 1655881960199,
+      "id": 58
+    },
+    {
+      "categoryId": "ls095732811",
+      "userId": 1,
+      "timestamp": 1655911768726,
+      "id": 59
+    },
+    {
+      "categoryId": "ls095732811",
+      "userId": 1,
+      "timestamp": 1655911806660,
+      "id": 60
+    },
+    {
+      "score": 0,
+      "categoryId": "ls095732811",
+      "userId": 1,
+      "timestamp": 1655912171806,
+      "id": 61
+    },
+    {
+      "score": 0,
+      "categoryId": "ls095732811",
+      "userId": 1,
+      "timestamp": 1655912218423,
+      "id": 62
+    },
+    {
+      "score": 0,
+      "categoryId": "ls095732811",
+      "userId": 1,
+      "timestamp": 1655912934898,
+      "id": 63
+    },
+    {
+      "score": 0,
+      "categoryId": "ls095732811",
+      "userId": 1,
+      "timestamp": 1655913566214,
+      "id": 64
+    },
+    {
+      "score": 30,
+      "categoryId": "ls095732811",
+      "userId": 1,
+      "timestamp": 1655931595480,
+      "correctAnswers": 3,
+      "incorrectAnswers": 0,
+      "actorId": "nm0000342",
+      "outcome": "forfeit",
+      "id": 65
+    },
+    {
+      "score": 0,
+      "categoryId": "ls095732811",
+      "userId": 1,
+      "timestamp": 1655932161372,
+      "correctAnswers": 0,
+      "incorrectAnswers": 0,
+      "outcome": "forfeit",
+      "id": 66
+    },
+    {
+      "score": 0,
+      "categoryId": "ls095732811",
+      "userId": 1,
+      "timestamp": 1655932349293,
+      "correctAnswers": 0,
+      "incorrectAnswers": 0,
+      "outcome": "forfeit",
+      "id": 67
+    },
+    {
+      "score": 10,
+      "categoryId": "ls095732811",
+      "userId": 1,
+      "timestamp": 1655940463197,
+      "correctAnswers": 1,
+      "incorrectAnswers": 0,
+      "actorId": "nm1143816",
+      "outcome": "won",
+      "id": 68
+    },
+    {
+      "score": 0,
+      "categoryId": "ls095732811",
+      "userId": 1,
+      "timestamp": 1655940538007,
+      "correctAnswers": 0,
+      "incorrectAnswers": 0,
+      "outcome": "won",
+      "id": 69
+    },
+    {
+      "score": 0,
+      "categoryId": "ls095732811",
+      "userId": 1,
+      "timestamp": 1655940561928,
+      "correctAnswers": 0,
+      "incorrectAnswers": 0,
+      "outcome": "won",
+      "id": 70
+    },
+    {
+      "score": 0,
+      "categoryId": "ls095732811",
+      "userId": 1,
+      "timestamp": 1655940604183,
+      "correctAnswers": 0,
+      "incorrectAnswers": 0,
+      "outcome": "won",
+      "id": 71
+    },
+    {
+      "score": 0,
+      "categoryId": "ls095732811",
+      "userId": 1,
+      "timestamp": 1655940641805,
+      "correctAnswers": 0,
+      "incorrectAnswers": 0,
+      "outcome": "won",
+      "id": 72
+    },
+    {
+      "score": 36,
+      "categoryId": "ls095732811",
+      "userId": 1,
+      "timestamp": 1655940700846,
+      "correctAnswers": 4,
+      "incorrectAnswers": 2,
+      "actorId": "nm0000421",
+      "outcome": "won",
+      "id": 73
+    },
+    {
+      "score": 0,
+      "categoryId": "ls095732811",
+      "userId": 1,
+      "timestamp": 1655996465063,
+      "correctAnswers": 0,
+      "incorrectAnswers": 0,
+      "actorId": "nm3262714",
+      "outcome": "forfeit",
+      "id": 74
+    },
+    {
+      "score": 40,
+      "categoryId": "ls560242519",
+      "userId": 1,
+      "timestamp": 1656013555937,
+      "correctAnswers": 4,
+      "incorrectAnswers": 0,
+      "actorId": "nm1638294",
+      "outcome": "won",
+      "id": 75
+    },
+    {
+      "score": 40,
+      "categoryId": "ls095732811",
+      "userId": 1,
+      "timestamp": 1656013784767,
+      "correctAnswers": 4,
+      "incorrectAnswers": 0,
+      "actorId": "nm0004747",
+      "outcome": "won",
+      "id": 76
+    },
+    {
+      "score": 40,
+      "categoryId": "ls095732811",
+      "userId": 1,
+      "timestamp": 1656013848529,
+      "correctAnswers": 4,
+      "incorrectAnswers": 0,
+      "actorId": "nm0004747",
+      "outcome": "won",
+      "id": 77
+    },
+    {
+      "score": 0,
+      "categoryId": "ls502193224",
+      "userId": 1,
+      "timestamp": 1656015089273,
+      "correctAnswers": 0,
+      "incorrectAnswers": 0,
+      "actorId": "nm0754676",
+      "outcome": "forfeit",
+      "id": 78
+    },
+    {
+      "score": 0,
+      "categoryId": "ls095732811",
+      "userId": 1,
+      "timestamp": 1656016665283,
+      "correctAnswers": 0,
+      "incorrectAnswers": 0,
+      "actorId": "nm0641354",
+      "outcome": "forfeit",
+      "id": 79
+    },
+    {
+      "score": 0,
+      "categoryId": "ls095732811",
+      "userId": 1,
+      "timestamp": 1656016741251,
+      "correctAnswers": 0,
+      "incorrectAnswers": 0,
+      "actorId": "nm0343678",
+      "outcome": "forfeit",
+      "id": 80
+    },
+    {
+      "score": 0,
+      "categoryId": "ls095732811",
+      "userId": 1,
+      "timestamp": 1656016861597,
+      "correctAnswers": 0,
+      "incorrectAnswers": 0,
+      "actorId": "nm3920288",
+      "outcome": "forfeit",
+      "id": 81
+    },
+    {
+      "score": 0,
+      "categoryId": "ls502193224",
+      "userId": 1,
+      "timestamp": 1656016876517,
+      "correctAnswers": 0,
+      "incorrectAnswers": 0,
+      "actorId": "nm0903397",
+      "outcome": "forfeit",
+      "id": 82
+    },
+    {
+      "score": 40,
+      "categoryId": "ls095732811",
+      "userId": 1,
+      "timestamp": 1656016892663,
+      "correctAnswers": 4,
+      "incorrectAnswers": 0,
+      "actorId": "nm3078932",
+      "outcome": "won",
+      "id": 83
+    },
+    {
+      "score": 40,
+      "categoryId": "ls095732811",
+      "userId": 1,
+      "timestamp": 1656017201152,
+      "correctAnswers": 4,
+      "incorrectAnswers": 0,
+      "actorId": "nm0004821",
+      "outcome": "won",
+      "id": 84
+    },
+    {
+      "score": 40,
+      "categoryId": "ls095732811",
+      "userId": 1,
+      "timestamp": 1656017593911,
+      "correctAnswers": 4,
+      "incorrectAnswers": 0,
+      "actorId": "nm0731075",
+      "outcome": "won",
+      "id": 85
+    },
+    {
+      "score": 40,
+      "categoryId": "ls095732811",
+      "userId": 1,
+      "timestamp": 1656017788996,
+      "correctAnswers": 4,
+      "incorrectAnswers": 0,
+      "actorId": "nm0731075",
+      "outcome": "won",
+      "id": 86
+    },
+    {
+      "score": 0,
+      "categoryId": "ls095732811",
+      "userId": 1,
+      "timestamp": 1656017876551,
+      "correctAnswers": 0,
+      "incorrectAnswers": 0,
+      "actorId": "nm1143816",
+      "outcome": "forfeit",
+      "id": 87
     }
   ],
   "avatars": [
@@ -375,7 +1075,7 @@
       "genre": "Western"
     }
   ],
-  "lists": [
+  "categories": [
     {
       "id": "ls095732811",
       "name": "American Horror Story"
@@ -429,5 +1129,49 @@
       "name": "Three Names"
     }
   ],
-  "listActors": []
+  "listActors": [],
+  "loserGifs": [
+    {
+      "id": 1,
+      "gif": "https://media.giphy.com/media/mcH0upG1TeEak/giphy.gif"
+    },
+    {
+      "id": 2,
+      "gif": "https://media.giphy.com/media/11C5ohOOaxjlcc/giphy.gif"
+    },
+    {
+      "id": 3,
+      "gif": "https://media.giphy.com/media/cr9vIO7NsP5cY/giphy.gif"
+    },
+    {
+      "id": 4,
+      "gif": "https://media.giphy.com/media/pMIAVROc0et68/giphy.gif"
+    },
+    {
+      "id": 5,
+      "gif": "https://media.giphy.com/media/pMIAVROc0et68/giphy.gif"
+    }
+  ],
+  "winnerGifs": [
+    {
+      "id": 1,
+      "gif": "https://media.giphy.com/media/26gsf3YejgPfbLvig/giphy.gif"
+    },
+    {
+      "id": 2,
+      "gif": "https://media.giphy.com/media/xT0GqssRweIhlz209i/giphy.gif"
+    },
+    {
+      "id": 3,
+      "gif": "https://media.giphy.com/media/yoJC2JaiEMoxIhQhY4/giphy.gif"
+    },
+    {
+      "id": 4,
+      "gif": "https://media.giphy.com/media/ThdpnaS4jUW3ZlYSJ1/giphy.gif"
+    },
+    {
+      "id": 5,
+      "gif": "https://media.giphy.com/media/MFmHhd0LenGBsqp7Uh/giphy.gif"
+    }
+  ]
 }
