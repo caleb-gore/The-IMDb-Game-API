@@ -89,6 +89,24 @@
       "favGenreId": 1,
       "avatarId": 4,
       "id": 10
+    },
+    {
+      "fullName": "My Name",
+      "email": "my@email.com",
+      "userName": "myname",
+      "favMovieId": "tt0032138",
+      "favGenreId": 4,
+      "avatarId": 1,
+      "id": 11
+    },
+    {
+      "fullName": "the guy",
+      "email": "the@guy",
+      "userName": "theguy",
+      "favMovieId": "tt0116465",
+      "favGenreId": 11,
+      "avatarId": 2,
+      "id": 12
     }
   ],
   "games": [
@@ -989,6 +1007,72 @@
       "actorId": "nm1143816",
       "outcome": "forfeit",
       "id": 87
+    },
+    {
+      "score": 38,
+      "categoryId": "ls000067997",
+      "userId": 1,
+      "timestamp": 1656049244841,
+      "correctAnswers": 4,
+      "incorrectAnswers": 1,
+      "actorId": "nm0000226",
+      "outcome": "won",
+      "id": 88
+    },
+    {
+      "score": 38,
+      "categoryId": "ls095732811",
+      "userId": 1,
+      "timestamp": 1656051039394,
+      "correctAnswers": 4,
+      "incorrectAnswers": 1,
+      "actorId": "nm2120241",
+      "outcome": "won",
+      "id": 89
+    },
+    {
+      "score": 30,
+      "categoryId": "ls000067997",
+      "userId": 1,
+      "timestamp": 1656051123829,
+      "correctAnswers": 3,
+      "incorrectAnswers": 0,
+      "actorId": "nm0000163",
+      "outcome": "forfeit",
+      "id": 90
+    },
+    {
+      "score": 0,
+      "categoryId": "ls097918155",
+      "userId": 1,
+      "timestamp": 1656051161626,
+      "correctAnswers": 0,
+      "incorrectAnswers": 0,
+      "actorId": "nm3011272",
+      "outcome": "forfeit",
+      "id": 91
+    },
+    {
+      "score": 36,
+      "categoryId": "ls008621322",
+      "userId": 1,
+      "timestamp": 1656079613510,
+      "correctAnswers": 4,
+      "incorrectAnswers": 2,
+      "actorId": "nm0186505",
+      "outcome": "won",
+      "id": 92
+    },
+    {
+      "score": 32,
+      "categoryId": "ls026495886",
+      "userId": 1,
+      "timestamp": 1656080880702,
+      "correctAnswers": 4,
+      "incorrectAnswers": 4,
+      "actorId": "nm0644897",
+      "outcome": "won",
+      "id": 93
     }
   ],
   "avatars": [
