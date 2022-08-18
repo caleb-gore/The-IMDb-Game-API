@@ -7,4 +7,4 @@ class Avatar(models.Model):
         width_field=None,
         max_length=None,
         null=True
-    )
+)

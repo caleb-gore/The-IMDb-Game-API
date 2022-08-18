@@ -3,6 +3,26 @@
   "python.linting.enabled": true,
   "python.linting.pylintArgs": [
     "--load-plugins=pylint_django",
-    "--django-settings-module=imdb_game.settings",
-]
+    "--django-settings-module=imdb_game.settings"
+  ],
+  "cSpell.words": [
+    "avatarimages",
+    "capn",
+    "datetime",
+    "Everdeen",
+    "Gifs",
+    "hippihoppi",
+    "imdb",
+    "indianajones",
+    "Katniss",
+    "losergif",
+    "Lynd",
+    "mcclane",
+    "mockingjay",
+    "myname",
+    "thebride",
+    "theguy",
+    "winnergif",
+    "yippy"
+  ]
 }
