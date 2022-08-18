@@ -1,0 +1,16 @@
+[
+    {
+        "model": "imdb_game_api.game",
+        "pk": 1,
+        "fields": {
+            "actor_id": "nm0002253",
+            "category": 1,
+            "player": 1,
+            "correct_answers": 0,
+            "incorrect_answers": 0,
+            "score": 0,
+            "datetime": "2022-06-20 14:25:04",
+            "outcome": "win"
+        }
+      }
+]

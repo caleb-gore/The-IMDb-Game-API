@@ -1,0 +1,37 @@
+[
+    {
+        "model": "imdb_game_api.losergif",
+        "pk": 1,
+        "fields": {
+            "gif": "https://media.giphy.com/media/mcH0upG1TeEak/giphy.gif"
+        }
+      },
+      {
+        "model": "imdb_game_api.losergif",
+        "pk": 2,
+        "fields": {
+            "gif": "https://media.giphy.com/media/11C5ohOOaxjlcc/giphy.gif"
+        }
+      },
+      {
+        "model": "imdb_game_api.losergif",
+        "pk": 3,
+        "fields": {
+            "gif": "https://media.giphy.com/media/cr9vIO7NsP5cY/giphy.gif"
+        }
+      },
+      {
+        "model": "imdb_game_api.losergif",
+        "pk": 4,
+        "fields": {
+            "gif": "https://media.giphy.com/media/pMIAVROc0et68/giphy.gif"
+        }
+      },
+      {
+        "model": "imdb_game_api.losergif",
+        "pk": 5,
+        "fields": {
+            "gif": "https://media.giphy.com/media/pMIAVROc0et68/giphy.gif"
+        }
+      }
+]

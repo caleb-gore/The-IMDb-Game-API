@@ -1,0 +1,12 @@
+[
+    {
+        "model": "imdb_game_api.player",
+        "pk": 1,
+        "fields": {
+            "user": 1,
+            "favMovie": "tt0325980",
+            "avatar": 1,
+            "favGenre": 1
+        }
+    }
+]

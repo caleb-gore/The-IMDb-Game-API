@@ -1,0 +1,86 @@
+[
+  {
+    "model": "imdb_game_api.genre",
+    "pk": 1,
+    "fields": {
+        "genre": "Action"
+    }
+  },
+  {
+    "model": "imdb_game_api.genre",
+    "pk": 2,
+    "fields": {
+        "genre": "Animation"
+    }
+  },
+  {
+    "model": "imdb_game_api.genre",
+    "pk": 3,
+    "fields": {
+        "genre": "Comedy"
+    }
+  },
+  {
+    "model": "imdb_game_api.genre",
+    "pk": 4,
+    "fields": {
+        "genre": "Crime"
+    }
+  },
+  {
+    "model": "imdb_game_api.genre",
+    "pk": 5,
+    "fields": {
+        "genre": "Drama"
+    }
+  },
+  {
+    "model": "imdb_game_api.genre",
+    "pk": 6,
+    "fields": {
+        "genre": "Fantasy"
+    }
+  },
+  {
+    "model": "imdb_game_api.genre",
+    "pk": 7,
+    "fields": {
+        "genre": "Historical"
+    }
+  },
+  {
+    "model": "imdb_game_api.genre",
+    "pk": 8,
+    "fields": {
+        "genre": "Horror"
+    }
+  },
+  {
+    "model": "imdb_game_api.genre",
+    "pk": 9,
+    "fields": {
+        "genre": "Romance"
+    }
+  },
+  {
+    "model": "imdb_game_api.genre",
+    "pk": 10,
+    "fields": {
+        "genre": "Science Fiction"
+    }
+  },
+  {
+    "model": "imdb_game_api.genre",
+    "pk": 11,
+    "fields": {
+        "genre": "Thriller"
+    }
+  },
+  {
+    "model": "imdb_game_api.genre",
+    "pk": 12,
+    "fields": {
+        "genre": "Western"
+    }
+  }
+]

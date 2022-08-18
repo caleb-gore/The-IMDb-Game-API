@@ -1,0 +1,106 @@
+[
+  {
+    "model": "imdb_game_api.category",
+    "pk": 1,
+    "fields": {
+        "list_id": "ls095732811",
+        "name": "American Horror Story"
+    }
+  },
+  {
+    "model": "imdb_game_api.category",
+    "pk": 2,
+    "fields": {
+        "list_id": "ls008621322",
+        "name": "TV Dads"
+    }
+  },
+  {
+    "model": "imdb_game_api.category",
+    "pk": 3,
+    "fields": {
+        "list_id": "ls080347996",
+        "name": "TV Moms"
+    }
+  },
+  {
+    "model": "imdb_game_api.category",
+    "pk": 4,
+    "fields": {
+        "list_id": "ls560242519",
+        "name": "Brits"
+    }
+  },
+  {
+    "model": "imdb_game_api.category",
+    "pk": 5,
+    "fields": {
+        "list_id": "ls097918155",
+        "name": "Canadians"
+    }
+  },
+  {
+    "model": "imdb_game_api.category",
+    "pk": 6,
+    "fields": {
+        "list_id": "ls026495886",
+        "name": "Grey's Anatomy"
+    }
+  },
+  {
+    "model": "imdb_game_api.category",
+    "pk": 7,
+    "fields": {
+        "list_id": "ls089663282",
+        "name": "Saturday Night Live"
+    }
+  },
+  {
+    "model": "imdb_game_api.category",
+    "pk": 8,
+    "fields": {
+        "list_id": "ls502193224",
+        "name": "Saved By The Bell"
+    }
+  },
+  {
+    "model": "imdb_game_api.category",
+    "pk": 9,
+    "fields": {
+        "list_id": "ls000067997",
+        "name": "Best Actor Winners"
+    }
+  },
+  {
+    "model": "imdb_game_api.category",
+    "pk": 10,
+    "fields": {
+        "list_id": "ls000067814",
+        "name": "Best Actress Winners"
+    }
+  },
+  {
+    "model": "imdb_game_api.category",
+    "pk": 11,
+    "fields": {
+        "list_id": "ls056537712",
+        "name": "DC Movies"
+    }
+  },
+  {
+    "model": "imdb_game_api.category",
+    "pk": 12,
+    "fields": {
+        "list_id": "ls064339218",
+        "name": "Marvel Cinematic Universe"
+    }
+  },
+  {
+    "model": "imdb_game_api.category",
+    "pk": 13,
+    "fields": {
+        "list_id": "ls074096091",
+        "name": "Three Names"
+    }
+  }
+]
